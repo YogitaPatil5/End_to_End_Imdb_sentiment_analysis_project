@@ -17,8 +17,8 @@ import streamlit as st
 import pickle
 import re
 import nltk
-from tensorflow.keras.models import load_model
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from keras.models import load_model
+from keras_preprocessing.sequence import pad_sequences
 
 # Constants for model and tokenizer paths
 MODEL_PATH = "saved_models/sentiment_model.h5"

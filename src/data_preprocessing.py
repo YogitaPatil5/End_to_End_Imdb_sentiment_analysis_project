@@ -6,8 +6,8 @@ import numpy as np
 import pandas as pd
 import nltk
 from nltk.corpus import stopwords
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
 from typing import List, Tuple, Optional
 
 # Configure logging

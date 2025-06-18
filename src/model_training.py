@@ -19,10 +19,10 @@ import os
 import logging
 import numpy as np
 from typing import Tuple, Optional
-from tensorflow.keras.models import Sequential, load_model
-from tensorflow.keras.layers import Embedding, LSTM, Dense, Dropout
-from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
-from tensorflow.keras.optimizers import Adam
+from keras.models import Sequential, load_model
+from keras.layers import Embedding, LSTM, Dense, Dropout
+from keras.callbacks import EarlyStopping, ModelCheckpoint
+from keras.optimizers import Adam
 
 # Configure logging with detailed format
 logging.basicConfig(
