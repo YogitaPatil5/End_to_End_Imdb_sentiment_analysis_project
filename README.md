@@ -113,7 +113,18 @@ End_to_End_Imdb_sentiment_analysis_project/
 
 ## 📜 License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2024 Yogita Patil
+
+The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable.
+
+**Key points:**
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ✅ License and copyright notice required
 
 ---
 
